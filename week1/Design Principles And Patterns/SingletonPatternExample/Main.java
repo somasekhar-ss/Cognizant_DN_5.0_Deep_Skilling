@@ -2,7 +2,7 @@ public class Main {
 
 	public static void main(String [] args) {
 		
-		// Get the single instance of Logger
+		// Get that single instance of Logger
 		Logger log1= Logger.getInstance();
 		Logger log2= Logger.getInstance();
 		
